@@ -144,6 +144,27 @@
       },
       "url": "https://packages.unity.com"
     },
+    "yunwoo.unitypackage.editor-console-pro": {
+      "version": "3.9.71",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "http://yw-dev.synology.me:4873"
+    },
+    "yunwoo.unitypackage.enhanced-hierarchy": {
+      "version": "2.4.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "http://yw-dev.synology.me:4873"
+    },
+    "yunwoo.unitypackage.rainbow-folders": {
+      "version": "2.3.0-4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "http://yw-dev.synology.me:4873"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

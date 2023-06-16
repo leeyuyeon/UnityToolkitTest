@@ -11,6 +11,9 @@
     "com.unity.timeline": "1.7.4",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.8.0",
+    "yunwoo.unitypackage.editor-console-pro": "3.9.71",
+    "yunwoo.unitypackage.enhanced-hierarchy": "2.4.5",
+    "yunwoo.unitypackage.rainbow-folders": "2.3.0-4",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -42,5 +45,14 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "yw",
+      "url": "http://yw-dev.synology.me:4873",
+      "scopes": [
+        "yunwoo"
+      ]
+    }
+  ]
 }
